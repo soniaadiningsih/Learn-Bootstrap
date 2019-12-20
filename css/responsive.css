@@ -1,0 +1,53 @@
+@media only screen and (max-width: 991px) {
+    .carousel-caption{
+        font-size: 20px;
+        margin-top: -150px;
+    }
+    .navbar-nav{
+        margin-top: auto;
+        position: relative;
+        margin-left: auto;
+    }
+    .navbar-nav .basket{
+        margin-top: auto;
+    }
+    .media img{
+        width: 100px;
+        height: 100px;
+    }
+    .media-body{
+        font-size: 15px;
+    }
+}
+
+
+@media only screen and (max-width: 1199px) {}
+
+@media only screen and (max-width: 767px) {
+    .carousel-caption{
+        font-size: 20px;
+        margin-top: -200px;
+    }
+    .site-text{
+        margin-left: -80px;
+    }
+    .navbar-nav{
+        position: relative;
+        margin-top: auto;
+        margin-left: auto;
+    }
+    .navbar-nav .basket{
+        margin-top: 
+    }
+
+    .card{
+        margin-bottom: 20px;
+    }
+    .product3 .h4{
+        margin-top: -50px;
+    }
+    .product3 h4{
+        margin-top: 100px;
+    }
+
+}

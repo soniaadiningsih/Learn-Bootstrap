@@ -1,0 +1,84 @@
+body{
+    overflow-x: hidden;
+}
+
+/* header */
+header{
+    background-color: rgb(8, 185, 197);
+}
+header .site-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container .dropdown-toggle, .container .dropdown-tem{
+    font-size: 12px;
+}
+.header-links a{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+/* navbar */
+.navbar-nav{
+    padding: 14px 0;
+}
+.navbar-nav .nav-link{
+    font-size: 16px;
+    color: lightgrey;
+    margin-left: 20px;
+}
+.navbar-nav .nav-item .nav-link{
+    padding: 15px;
+}
+.navbar-nav .basket-icon{
+    margin-right: 100px !important;
+}
+
+/* carousel */
+.carousel-caption{
+    top: 350px;
+}
+
+/* description */
+.description{
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* product */
+.product{
+    color: grey;
+}
+.underline{
+    width: 100px;
+    height: 2px;
+    background-color: teal;
+}
+.underline-lightred{
+    width: 70px;
+    height: 2px;
+    background-color: rgba(230, 74, 18, 0.986);
+}
+.underline-red{
+    width: 70px;
+    height: 2px;
+    background-color: red;
+}
+.underline-black{
+    width: 70px;
+    height: 2px;
+    background-color: black;
+}
+.media .img-fluid{
+    height: 120px;
+    width: 120px;
+}
+
+/* card */
+.card-body{
+    text-align: center;
+}
+.blog .media img{
+    max-width: 200px;
+    height: auto;
+}
